@@ -1,0 +1,42 @@
+ 336  git init
+  337  git remote add origin https://github.com/renevalenz/202365-ReneValenzuela.git~
+  338  git remote add origin https://github.com/renevalenz/202365-ReneValenzuela.git
+  339  touch comandos.txt main.js index.html
+  340  git add .
+  341  git status
+  342  git commit - m "01 de ReneValenzuela"
+  343  git commit -m "01 de ReneValenzuela"
+  344  git push origin main
+  345  git branch eature
+  346  git branch
+  347  git branch -m eature Feature
+  348  git branch
+  349  git checkout Feature
+  350  mkdir Hardware Software SeguridadInformatica
+  351  cd Hardware/
+  352  touch resumen.txt
+  353  cd ..
+  354  cd Software/
+  355  touch resumen.txt
+  356  cd ..
+  357  cd SeguridadInformatica/
+  358  touch resumen.txt
+  359  cd ..
+  360  git add .
+  361  git status
+  362  git commit -m "02 de ReneValenzuela"
+  363  git push
+  364  git push origin branch
+  365  git push origin main
+  366  git push origin Feature
+  367  git checkout main
+  368  ls
+  369  mv main.js resumenHardware.txt
+  370  ls
+  371  mv index.html resumenSoftware.txt
+  372  ls
+  373  nano resumenSoftware.txt
+  374  nano resumenHardware.txt
+  375  ls
+  376  history 30
+  377  history 50
